@@ -9,7 +9,8 @@ OPTIONS:
 Specifies files to open (required)
     
 OUTPUT FILES:
-    patient_data.json - JSON file in specified format containing patient data, lab results and panels for each result
+
+patient_data.json - JSON file in specified format containing patient data, lab results and panels for each result
     
 USAGE EXAMPLE:
 
