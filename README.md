@@ -3,8 +3,10 @@
 Python 2.7 script to generate JSON output from patient record files. Requires labresults in .csv, labresults-code in .csv and patient data in .json format. Example input fiels are supplied.
 
 OPTIONS:
+
     -f <path-to-labresults(csv)> <path-to-labresults-code(csv)> <path-to-patients(json)>
-    Specifies files to open (required)
+
+Specifies files to open (required)
     
 OUTPUT FILES:
     patient_data.json - JSON file in specified format containing patient data, lab results and panels for each result
