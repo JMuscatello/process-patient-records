@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ccbf8ccb-12b9-4f33-b5a2-cb2d38039d3e",
+    "identifiers": [
+      "41915278"
+    ],
+    "firstName": "Patient",
+    "lastName": "Alpha",
+    "dateOfBirth": "1980-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "9341fce0-5864-4b8a-a850-1ec0689482b3",
+    "identifiers": [
+      "41723788"
+    ],
+    "firstName": "Patient",
+    "lastName": "Beta",
+    "dateOfBirth": "1995-03-30T00:00:00.000Z"
+  },
+  {
+    "id": "22eef0c0-0c53-4710-bbb3-6bde0a5b5396",
+    "identifiers": [
+      "41601442"
+    ],
+    "firstName": "Patient",
+    "lastName": "Gamma",
+    "dateOfBirth": "1942-12-24T23:00:00.000Z"
+  },
+  {
+    "id": "2a78520e-f891-4302-b1a8-f126fab02a1b",
+    "identifiers": [
+      "40681648"
+    ],
+    "firstName": "Patient",
+    "lastName": "Delta",
+    "dateOfBirth": "1915-02-14T00:00:00.000Z"
+  }
+]
